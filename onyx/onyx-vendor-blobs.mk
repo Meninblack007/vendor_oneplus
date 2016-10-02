@@ -30,6 +30,9 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/onyx/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/oneplus/onyx/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/oneplus/onyx/proprietary/etc/firmware/tfa98xx.cnt:system/etc/firmware/tfa98xx.cnt \
+    vendor/oneplus/onyx/proprietary/vendor/lib/libloc_eng.so:system/vendor/lib/libloc_eng.so \
+    vendor/oneplus/onyx/proprietary/vendor/lib/libgps.utils.so:system/vendor/lib/libgps.utils.so \
+    vendor/oneplus/onyx/proprietary/vendor/lib/libloc_core.so:system/vendor/lib/libloc_core.so \
     vendor/oneplus/onyx/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
     vendor/oneplus/onyx/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
     vendor/oneplus/onyx/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
